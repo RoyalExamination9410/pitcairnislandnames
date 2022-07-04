@@ -1,7 +1,59 @@
-available: false
+available: true
 id: 0
 mainset:
-- names: []
+- names:
+  - name: Pitcairn Island
+    probability: 1
+  - name: Henderson Island
+    probability: 1
+  - name: Ducie Island
+    probability: 1
+  - name: Oeno Island
+    probability: 1
+  - name: Adamstown
+    probability: 1
+  - name: The Bounty
+    probability: 1
+  - name: Bounty Bay
+    probability: 1
+  - name: Hill of Difficulty
+    probability: 1
+  - name: Christian's Cave
+    probability: 1
+  - name: Sandy Harbour
+    probability: 1
+  - name: Matt's Rocks
+    probability: 1
+  - name: Jetty Harbour
+    probability: 1
+  - name: Western Harbour
+    probability: 1
+  - name: Tanema
+    probability: 1
+  - name: Garden
+    probability: 1
+  - name: Big Ridge
+    probability: 1
+  - name: Pawala Valley Ridge
+    probability: 1
+  - name: Ginger Valley
+    probability: 1
+  - name: Big George
+    probability: 1
+  - name: Outer Valley
+    probability: 1
+  - name: Down Rope Bay
+    probability: 1
+  - name: Nancy's Stone
+    probability: 1
+  - name: St. Paul's Pool
+    probability: 1
+  - name: Buffets Redirt
+    probability: 1
+  - name: Adam's Rock
+    probability: 1
+  - name: Main Road
+    probability: 1
 name: Pitcairn Island names
 source: null
 subsets: []
