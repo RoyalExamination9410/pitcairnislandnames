@@ -55,5 +55,5 @@ mainset:
   - name: Main Road
     probability: 1
 name: Pitcairn Island names
-source: null
+source: https://www.openstreetmap.org/#map=14/-25.0722/-130.1055
 subsets: []
